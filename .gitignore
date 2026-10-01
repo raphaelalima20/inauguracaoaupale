@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.env*
+
+# arquivos-fonte (versões otimizadas ficam em public/ e app/)
+/fotos aupale
+/identidade visual
